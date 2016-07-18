@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{6B03C2DC-0D52-8415-34B8-817BF7259A96}") = "PushTimer", "Assembly-CSharp.csproj", "{EC7F2BA9-B735-E4A9-5862-DE49D5090B28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC7F2BA9-B735-E4A9-5862-DE49D5090B28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC7F2BA9-B735-E4A9-5862-DE49D5090B28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC7F2BA9-B735-E4A9-5862-DE49D5090B28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC7F2BA9-B735-E4A9-5862-DE49D5090B28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
